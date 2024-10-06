@@ -1,3 +1,4 @@
-sampleSongs.csv
 venv
 samples
+*.bin
+*.csv
