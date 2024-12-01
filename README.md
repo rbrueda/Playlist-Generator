@@ -24,7 +24,7 @@
 11. Save all these playlists as CSV results 
 
 ## Findings 
-- Due to the limitation on the number of genres, I have discovered the genres are vectorized in a low dimension space. This is where I applied pca for dimension reduction and spread of 5 on umap. Adding these modifications allows for mre clear cluster results.
+- Due to the limitation on the number of genres, I have discovered the genres are vectorized in a low dimension space. This is where I applied pca for dimension reduction and spread of 5 on umap. Adding these modifications allows for more clear cluster results.
 
 ![image](https://github.com/user-attachments/assets/7e0d79c2-d20c-4492-95c4-0bb596a4905f)
 ![image](https://github.com/user-attachments/assets/2199af61-ea12-4587-8d4e-96eea09f7fdb)
